@@ -12,4 +12,16 @@ Internal Application to help Accounting Department monitor its invoice and disbu
 <br/>
 <br/>
 <br/>Initial Planning/Requirements 
-<br/>-
+<br/>-Primary Objeects are Invoice and Disbursement entries
+<br/>-Data is existing so we can just consolidate/normalize it to better make use of databases
+<br/>
+<br/>Technology Stack to use
+<br/>-Spring Boot
+<br/>-JDBC
+<br/>-Mockito
+<br/>-JUNIT
+<br/>-Bootstrap
+<br/>-Html, Javascript
+<br/>
+<br/>
+
