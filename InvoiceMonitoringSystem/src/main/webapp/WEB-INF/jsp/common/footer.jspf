@@ -1,0 +1,8 @@
+<!-- <div class="footer fixed-bottom"> -->
+<!-- 		<div>footer content</div> -->
+<!-- 	</div> -->
+	
+	<script src="${rootUrl}webjars/jquery/3.2.1/jquery.min.js"></script>
+	<script src="${rootUrl}webjars/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="${rootUrl}webjars/jquery-ui/1.12.1/jquery-ui.min.js"></script>
+	
