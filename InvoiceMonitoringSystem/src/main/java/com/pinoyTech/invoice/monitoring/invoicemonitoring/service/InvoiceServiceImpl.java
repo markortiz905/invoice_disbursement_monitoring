@@ -1,4 +1,4 @@
-package com.tech24.invoice.monitoring.invoicemonitoring.service;
+package com.pinoyTech.invoice.monitoring.invoicemonitoring.service;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import org.springframework.stereotype.Component;
 
-import com.tech24.invoice.monitoring.invoicemonitoring.model.Invoice;
+import com.pinoyTech.invoice.monitoring.invoicemonitoring.model.Invoice;
 
 @Component
 public class InvoiceServiceImpl {

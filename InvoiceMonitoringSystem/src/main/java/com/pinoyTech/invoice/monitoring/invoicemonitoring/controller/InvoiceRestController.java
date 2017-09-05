@@ -1,4 +1,4 @@
-package com.tech24.invoice.monitoring.invoicemonitoring.controller;
+package com.pinoyTech.invoice.monitoring.invoicemonitoring.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.tech24.invoice.monitoring.invoicemonitoring.model.Invoice;
-import com.tech24.invoice.monitoring.invoicemonitoring.service.InvoiceServiceImpl;
+import com.pinoyTech.invoice.monitoring.invoicemonitoring.model.Invoice;
+import com.pinoyTech.invoice.monitoring.invoicemonitoring.service.InvoiceServiceImpl;
 
 @RestController
 public class InvoiceRestController {

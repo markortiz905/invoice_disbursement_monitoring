@@ -1,4 +1,4 @@
-package com.tech24.invoice.monitoring.invoicemonitoring.model;
+package com.pinoyTech.invoice.monitoring.invoicemonitoring.model;
 
 import java.time.LocalDate;
 

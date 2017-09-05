@@ -1,4 +1,4 @@
-package com.tech24.invoice.monitoring.invoicemonitoring.controller;
+package com.pinoyTech.invoice.monitoring.invoicemonitoring.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -12,8 +12,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.tech24.invoice.monitoring.invoicemonitoring.model.Invoice;
-import com.tech24.invoice.monitoring.invoicemonitoring.service.InvoiceServiceImpl;
+import com.pinoyTech.invoice.monitoring.invoicemonitoring.model.Invoice;
+import com.pinoyTech.invoice.monitoring.invoicemonitoring.service.InvoiceServiceImpl;
 
 @Controller
 public class InvoiceController {
